@@ -1,0 +1,17 @@
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Identity\BuySell.Identity.Infrastructure\bin\Debug\net7.0\BuySell.Identity.Infrastructure.deps.json
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Identity\BuySell.Identity.Infrastructure\bin\Debug\net7.0\BuySell.Identity.Infrastructure.dll
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Identity\BuySell.Identity.Infrastructure\bin\Debug\net7.0\BuySell.Identity.Infrastructure.pdb
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Identity\BuySell.Identity.Infrastructure\obj\Debug\net7.0\BuySell.Identity.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Identity\BuySell.Identity.Infrastructure\obj\Debug\net7.0\BuySell.Identity.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Identity\BuySell.Identity.Infrastructure\obj\Debug\net7.0\BuySell.Identity.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Identity\BuySell.Identity.Infrastructure\obj\Debug\net7.0\BuySell.Identity.Infrastructure.AssemblyInfo.cs
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Identity\BuySell.Identity.Infrastructure\obj\Debug\net7.0\BuySell.Identity.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Identity\BuySell.Identity.Infrastructure\obj\Debug\net7.0\BuySell.Identity.Infrastructure.dll
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Identity\BuySell.Identity.Infrastructure\obj\Debug\net7.0\refint\BuySell.Identity.Infrastructure.dll
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Identity\BuySell.Identity.Infrastructure\obj\Debug\net7.0\BuySell.Identity.Infrastructure.pdb
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Identity\BuySell.Identity.Infrastructure\obj\Debug\net7.0\ref\BuySell.Identity.Infrastructure.dll
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Identity\BuySell.Identity.Infrastructure\bin\Debug\net7.0\BuySell.Identity.Infrastructure.runtimeconfig.json
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Identity\BuySell.Identity.Infrastructure\bin\Debug\net7.0\BuySell.Identity.Domain.dll
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Identity\BuySell.Identity.Infrastructure\bin\Debug\net7.0\BuySell.Identity.Domain.pdb
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Identity\BuySell.Identity.Infrastructure\obj\Debug\net7.0\BuySell.Identity.Infrastructure.csproj.CopyComplete
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Identity\BuySell.Identity.Infrastructure\obj\Debug\net7.0\BuySell.Identity.Infrastructure.genruntimeconfig.cache

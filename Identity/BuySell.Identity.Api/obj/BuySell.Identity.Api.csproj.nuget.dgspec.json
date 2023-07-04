@@ -1,0 +1,451 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Api\\BuySell.Identity.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Business\\BuySell.Business.Domain\\BuySell.Business.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Business\\BuySell.Business.Domain\\BuySell.Business.Domain.csproj",
+        "projectName": "BuySell.Business.Domain",
+        "projectPath": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Business\\BuySell.Business.Domain\\BuySell.Business.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tuana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Business\\BuySell.Business.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tuana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\CommonModels\\BuySell.CommonModels\\BuySell.CommonModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\CommonModels\\BuySell.CommonModels\\BuySell.CommonModels.csproj",
+        "projectName": "BuySell.CommonModels",
+        "projectPath": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\CommonModels\\BuySell.CommonModels\\BuySell.CommonModels.csproj",
+        "packagesPath": "C:\\Users\\Tuana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\CommonModels\\BuySell.CommonModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tuana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Business\\BuySell.Business.Domain\\BuySell.Business.Domain.csproj": {
+                "projectPath": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Business\\BuySell.Business.Domain\\BuySell.Business.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Api\\BuySell.Identity.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Api\\BuySell.Identity.Api.csproj",
+        "projectName": "BuySell.Identity.Api",
+        "projectPath": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Api\\BuySell.Identity.Api.csproj",
+        "packagesPath": "C:\\Users\\Tuana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tuana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Application\\BuySell.Identity.Application.csproj": {
+                "projectPath": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Application\\BuySell.Identity.Application.csproj"
+              },
+              "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Infrastructure\\BuySell.Identity.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Infrastructure\\BuySell.Identity.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Application\\BuySell.Identity.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Application\\BuySell.Identity.Application.csproj",
+        "projectName": "BuySell.Identity.Application",
+        "projectPath": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Application\\BuySell.Identity.Application.csproj",
+        "packagesPath": "C:\\Users\\Tuana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tuana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\CommonModels\\BuySell.CommonModels\\BuySell.CommonModels.csproj": {
+                "projectPath": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\CommonModels\\BuySell.CommonModels\\BuySell.CommonModels.csproj"
+              },
+              "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Domain\\BuySell.Identity.Domain.csproj": {
+                "projectPath": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Domain\\BuySell.Identity.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Domain\\BuySell.Identity.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Domain\\BuySell.Identity.Domain.csproj",
+        "projectName": "BuySell.Identity.Domain",
+        "projectPath": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Domain\\BuySell.Identity.Domain.csproj",
+        "packagesPath": "C:\\Users\\Tuana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tuana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Infrastructure\\BuySell.Identity.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Infrastructure\\BuySell.Identity.Infrastructure.csproj",
+        "projectName": "BuySell.Identity.Infrastructure",
+        "projectPath": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Infrastructure\\BuySell.Identity.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Tuana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tuana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Domain\\BuySell.Identity.Domain.csproj": {
+                "projectPath": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Identity\\BuySell.Identity.Domain\\BuySell.Identity.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

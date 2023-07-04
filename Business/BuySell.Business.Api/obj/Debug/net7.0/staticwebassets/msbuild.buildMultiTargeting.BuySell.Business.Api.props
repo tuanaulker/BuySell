@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BuySell.Business.Api.props" />
+</Project>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "MYoptT5GwL46c0SHvhXppAkMnMBq3Gp2QxmmbLJ63bo=",
+  "Source": "BuySell.Business.Api",
+  "BasePath": "_content/BuySell.Business.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BuySell.Business.Api\\wwwroot",
+      "Source": "BuySell.Business.Api",
+      "ContentRoot": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Business\\BuySell.Business.Api\\wwwroot\\",
+      "BasePath": "_content/BuySell.Business.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Business\\BuySell.Business.Api\\wwwroot\\resource\\product-images\\674835609.JPG",
+      "SourceId": "BuySell.Business.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Business\\BuySell.Business.Api\\wwwroot\\",
+      "BasePath": "_content/BuySell.Business.Api",
+      "RelativePath": "resource/product-images/674835609.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\resource\\product-images\\674835609.JPG"
+    }
+  ]
+}

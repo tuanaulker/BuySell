@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BuySell.Gateway.Api.props" />
+</Project>

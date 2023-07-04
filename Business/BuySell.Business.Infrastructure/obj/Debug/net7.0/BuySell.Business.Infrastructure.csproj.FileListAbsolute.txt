@@ -1,0 +1,17 @@
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Business\BuySell.Business.Infrastructure\bin\Debug\net7.0\BuySell.Business.Infrastructure.deps.json
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Business\BuySell.Business.Infrastructure\bin\Debug\net7.0\BuySell.Business.Infrastructure.dll
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Business\BuySell.Business.Infrastructure\bin\Debug\net7.0\BuySell.Business.Infrastructure.pdb
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Business\BuySell.Business.Infrastructure\obj\Debug\net7.0\BuySell.Business.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Business\BuySell.Business.Infrastructure\obj\Debug\net7.0\BuySell.Business.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Business\BuySell.Business.Infrastructure\obj\Debug\net7.0\BuySell.Business.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Business\BuySell.Business.Infrastructure\obj\Debug\net7.0\BuySell.Business.Infrastructure.AssemblyInfo.cs
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Business\BuySell.Business.Infrastructure\obj\Debug\net7.0\BuySell.Business.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Business\BuySell.Business.Infrastructure\obj\Debug\net7.0\BuySell.Business.Infrastructure.dll
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Business\BuySell.Business.Infrastructure\obj\Debug\net7.0\refint\BuySell.Business.Infrastructure.dll
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Business\BuySell.Business.Infrastructure\obj\Debug\net7.0\BuySell.Business.Infrastructure.pdb
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Business\BuySell.Business.Infrastructure\obj\Debug\net7.0\ref\BuySell.Business.Infrastructure.dll
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Business\BuySell.Business.Infrastructure\bin\Debug\net7.0\BuySell.Business.Domain.dll
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Business\BuySell.Business.Infrastructure\bin\Debug\net7.0\BuySell.Business.Domain.pdb
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Business\BuySell.Business.Infrastructure\obj\Debug\net7.0\BuySell.Business.Infrastructure.csproj.CopyComplete
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Business\BuySell.Business.Infrastructure\bin\Debug\net7.0\BuySell.Business.Infrastructure.runtimeconfig.json
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\Business\BuySell.Business.Infrastructure\obj\Debug\net7.0\BuySell.Business.Infrastructure.genruntimeconfig.cache

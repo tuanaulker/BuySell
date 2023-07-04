@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.0.1" />
+	  <FrameworkReference Include="Microsoft.AspNetCore.App" />  <!--I added for IWebHostEnvironment -->
+    <PackageReference Include="Microsoft.AspNetCore.Hosting" Version="2.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.1.34" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.1.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\CommonModels\BuySell.CommonModels\BuySell.CommonModels.csproj" />
+    <ProjectReference Include="..\BuySell.Business.Domain\BuySell.Business.Domain.csproj" />
+    <ProjectReference Include="..\BuySell.Business.Infrastructure\BuySell.Business.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
+ 

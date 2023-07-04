@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6AaAO8nvhxd/SOIVNwLmqSdmHWrEqZhi8cScvNyVGMg6EGGxBlnaBdNWuUpEw2KFeWvIylZf+RW6vi1B43O/RQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\CommonModels\\BuySell.CommonModels\\BuySell.CommonModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tuana\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.1.1\\microsoft.aspnetcore.http.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\Tuana\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.1.1\\microsoft.aspnetcore.http.features.2.1.1.nupkg.sha512",
+    "C:\\Users\\Tuana\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.1\\microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "C:\\Users\\Tuana\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Tuana\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\Tuana\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

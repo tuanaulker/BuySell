@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Tuana\\Desktop\\.netCoreForm\\BuySell\\Business\\BuySell.Business.Api\\wwwroot\\resource\\product-images\\674835609.JPG",
+      "PackagePath": "staticwebassets\\resource\\product-images\\674835609.JPG"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BuySell.Business.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BuySell.Business.Api.props",
+      "PackagePath": "build\\BuySell.Business.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BuySell.Business.Api.props",
+      "PackagePath": "buildMultiTargeting\\BuySell.Business.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BuySell.Business.Api.props",
+      "PackagePath": "buildTransitive\\BuySell.Business.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

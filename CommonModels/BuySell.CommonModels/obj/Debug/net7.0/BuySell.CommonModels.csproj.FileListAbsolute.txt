@@ -1,0 +1,15 @@
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\CommonModels\BuySell.CommonModels\bin\Debug\net7.0\BuySell.CommonModels.deps.json
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\CommonModels\BuySell.CommonModels\bin\Debug\net7.0\BuySell.CommonModels.dll
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\CommonModels\BuySell.CommonModels\bin\Debug\net7.0\BuySell.CommonModels.pdb
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\CommonModels\BuySell.CommonModels\obj\Debug\net7.0\BuySell.CommonModels.csproj.AssemblyReference.cache
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\CommonModels\BuySell.CommonModels\obj\Debug\net7.0\BuySell.CommonModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\CommonModels\BuySell.CommonModels\obj\Debug\net7.0\BuySell.CommonModels.AssemblyInfoInputs.cache
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\CommonModels\BuySell.CommonModels\obj\Debug\net7.0\BuySell.CommonModels.AssemblyInfo.cs
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\CommonModels\BuySell.CommonModels\obj\Debug\net7.0\BuySell.CommonModels.csproj.CoreCompileInputs.cache
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\CommonModels\BuySell.CommonModels\obj\Debug\net7.0\BuySell.CommonModels.dll
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\CommonModels\BuySell.CommonModels\obj\Debug\net7.0\refint\BuySell.CommonModels.dll
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\CommonModels\BuySell.CommonModels\obj\Debug\net7.0\BuySell.CommonModels.pdb
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\CommonModels\BuySell.CommonModels\obj\Debug\net7.0\ref\BuySell.CommonModels.dll
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\CommonModels\BuySell.CommonModels\bin\Debug\net7.0\BuySell.Business.Domain.dll
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\CommonModels\BuySell.CommonModels\bin\Debug\net7.0\BuySell.Business.Domain.pdb
+C:\Users\Tuana\Desktop\.netCoreForm\BuySell\CommonModels\BuySell.CommonModels\obj\Debug\net7.0\BuySell.CommonModels.csproj.CopyComplete

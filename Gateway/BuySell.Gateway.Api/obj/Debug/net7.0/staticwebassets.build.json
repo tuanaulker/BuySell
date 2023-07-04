@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hqqM9jIQ1BaNNvUy4INiDDmNSmZ5N1BlFuwA1SJJrFk=",
+  "Source": "BuySell.Gateway.Api",
+  "BasePath": "_content/BuySell.Gateway.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
